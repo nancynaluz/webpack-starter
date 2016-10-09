@@ -1,0 +1,10 @@
+{
+  "ecmaFeatures": {
+    "templateStrings": true,
+    "jsx": true
+  },
+
+  "plugins": [
+    "react": true
+  ]
+}
